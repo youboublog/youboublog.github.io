@@ -1,2 +1,1 @@
-# youboublog.github.io
-Project website
+# YouBou-Blog
